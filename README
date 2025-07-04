@@ -1,0 +1,28 @@
+# Airbnb SQL Mini Project 🏡
+
+This project analyzes Airbnb listing data using **SQLite** and **Python (Google Colab)**. It explores host activity, review frequency, and listing recency.
+
+## 📌 Objectives
+
+- Identify top hosts by number of reviews and average ratings.
+- Calculate days since the last review for each listing.
+- Explore temporal patterns in review data using SQL functions.
+
+## 🔧 Tech Stack
+
+- Python (Google Colab)
+- SQLite
+- SQL (via `sqlite3` module)
+
+## 📂 Files
+
+- `Airbnb_SQL_Project.ipynb` — Colab notebook with code, analysis, and SQL queries.
+- `queries.sql` — Optional SQL-only version of all queries.
+
+## 📊 Dataset
+
+The dataset is sourced from [INSERT DATA SOURCE LINK, e.g., Kaggle or CSV upload].
+
+## 🚀 How to Run
+
+You can view the notebook directly on GitHub or open it in Colab:
