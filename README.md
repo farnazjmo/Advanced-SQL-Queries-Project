@@ -21,7 +21,7 @@ This project uses **SQLite and Python (via Google Colab)** to run advanced SQL q
 
 ## 📚 Source
 
-This project was adapted from a notebook provided in a course by [Organization/Instructor Name]. All SQL queries and analysis were written by me.
+This project was adapted from a notebook provided by NSDC Data Science Projects. All SQL queries and analysis were written by me.
 
 ## 🚀 How to Run
 
